@@ -23,6 +23,7 @@
 #include "../lib/RSDicBuilder.hpp"
 
 #include <time.h>
+#include <stdlib.h>
 #include <sys/time.h>
 #include <stdio.h>
 
